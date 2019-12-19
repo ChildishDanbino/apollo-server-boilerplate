@@ -1,0 +1,17 @@
+{
+  "name": "apollo-server-boilerplate",
+  "version": "1.0.0",
+  "description": "Apollo Server Boilerplate",
+  "main": "src/index.js",
+  "repository": "https://github.com/ChildishDanbino/apollo-server-boilerplate.git",
+  "author": "Daniel Adler",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.6.10",
+    "apollo-server": "^2.9.14",
+    "graphql": "^14.5.8",
+    "graphql-tools": "^4.0.6",
+    "install": "^0.13.0",
+    "query-string": "^6.9.0"
+  }
+}
